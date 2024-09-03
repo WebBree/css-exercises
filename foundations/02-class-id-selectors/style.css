@@ -1,0 +1,19 @@
+.gen{
+ background-color: rgb(255, 0, 34); 
+ font-family: "Verdana", "DejaVu Sans", serif;
+}
+
+#wen-one{
+    color: blue;
+    font-size: 36px;
+}
+
+.gen.cool{
+    font-size: 24px;
+}
+
+#wen-two{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
